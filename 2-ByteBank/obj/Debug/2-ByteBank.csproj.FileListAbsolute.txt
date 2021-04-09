@@ -1,0 +1,7 @@
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\bin\Debug\2-ByteBank.exe.config
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\bin\Debug\2-ByteBank.exe
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\bin\Debug\2-ByteBank.pdb
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.csprojAssemblyReference.cache
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.exe
+C:\Users\Natalia Gomes\source\repos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.pdb

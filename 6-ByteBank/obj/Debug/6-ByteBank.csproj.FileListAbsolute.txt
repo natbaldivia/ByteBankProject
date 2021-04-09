@@ -1,0 +1,7 @@
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\bin\Debug\6-ByteBank.exe.config
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\bin\Debug\6-ByteBank.exe
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\bin\Debug\6-ByteBank.pdb
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\obj\Debug\6-ByteBank.csprojAssemblyReference.cache
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\obj\Debug\6-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\obj\Debug\6-ByteBank.exe
+C:\Users\Natalia Gomes\source\repos\ByteBank\6-ByteBank\obj\Debug\6-ByteBank.pdb
